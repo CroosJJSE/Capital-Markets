@@ -1,19 +1,19 @@
 # Capital Market 
 
 ## primary market
-![alt text](image.png)
+![alt text](Images/image.png)
 
 ## secondary market
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 
 ## primary market vs secondary market
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 ## Stock market
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 # Key Takeaways from the Video "What are stocks?"
 
@@ -34,7 +34,7 @@
 - **Investment Strategy**: It's important to set a comfortable allocation of stocks and stick to it, even during market downturns, to avoid panic-driven decisions.
 
 # Difference Between Stocks and Bonds
-![alt text](image-6.png)
+![alt text](Images/image-6.png)
 
 - **Ownership vs. Debt**: Stocks represent ownership in a company, whereas bonds are loans made to a company or government that must be repaid with interest.
 
@@ -44,7 +44,7 @@
 
 - **Voting Rights**: Stockholders often have voting rights in company matters, while bondholders do not have such rights.
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)
 
 # The Bid-Ask Spread
 
@@ -57,10 +57,10 @@
 # Shorting and Going Long
 
 - **Going Long**: Buying shares of a stock with the expectation that its price will rise. If the stock price increases, you make a profit; if it decreases, you incur a loss.
-![alt text](image-8.png)
+![alt text](Images/image-8.png)
 
 - **Shorting a Stock**: Selling shares you do not own at the current price with the expectation that the price will fall. You later buy the shares at a lower price to deliver them, making a profit if the price drops. If the price rises, you incur a loss.
-![alt text](image-9.png)
+![alt text](Images/image-9.png)
 - **Financial Implications**:
     - When going long, your potential loss is limited to the amount you invested.
     - When shorting, your potential loss is theoretically unlimited since the stock price can keep rising.
